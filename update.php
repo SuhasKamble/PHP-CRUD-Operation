@@ -60,7 +60,7 @@
                 <h2>Update Info</h2>
             </div>
             <div class="card-body">
-                <form  method="post" action="update.php">
+                <form  method="post" >
 
                     <label for="fname" class="form-text">First Name</label>
                     <input type="text" class="form-control" name="fname">
